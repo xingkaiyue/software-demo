@@ -8,4 +8,3 @@ class BookInfo(models.Model):
     publisher=models.CharField(max_length=100)
     price=models.DecimalField(decimal_places=2,max_digits=10)
     stock=models.DecimalField(decimal_places=2,max_digits=10)
-# Create your models here.
