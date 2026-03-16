@@ -1,0 +1,13 @@
+﻿python-dotenv>=1.0.0
+numpy>=1.24.3
+websocket-client~=1.6.1
+dotenv~=0.9.9
+joblib~=1.5.3
+fpdf~=1.7.2
+modules~=1.0.0
+pandas~=3.0.1
+scikit-learn~=1.8.0
+PyYAML~=6.0.3
+neo4j~=6.1.0
+requests~=2.32.4
+zhipuai~=2.1.5.20250825
