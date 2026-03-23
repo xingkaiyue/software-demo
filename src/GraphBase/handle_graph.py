@@ -107,7 +107,7 @@ class GraphHandler:
         print("关闭连接")
 
 if __name__ == "__main__":
-    jsonl_path = r"../../data/graph/kg_前端_expanded.jsonl"
+    jsonl_path = r"C:\Users\34829\PycharmProjects\Book\infor_for_graph.jsonl"
 
     graph = GraphHandler()
     graph.create_graph(jsonl_path)
